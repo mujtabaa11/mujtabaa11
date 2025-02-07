@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=mujtabaa11.mujtabaa11)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mujtabaa11.mujtabaa11&left_color=green&right_color=red)
 
 <!--
 **mujtabaa11/mujtabaa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
