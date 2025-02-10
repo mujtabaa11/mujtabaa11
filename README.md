@@ -6,7 +6,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujtabaa11&theme=github)
 
-## About Me 👋
+## About Me 🎯
 
 Hi, I’m **Mohamed Mujtaba**, a **Solutions Architect** and **Software Engineer** with a passion for building scalable, efficient, and impactful solutions. I specialize in designing and implementing robust systems using **Java**, **Python**, **JavaScript**, and **AWS**. With a strong foundation in project management, I thrive on solving complex problems and delivering results that make a difference.
 
