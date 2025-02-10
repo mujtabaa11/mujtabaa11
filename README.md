@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mujtabaa11.mujtabaa11)
+<div align="center">
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mujtabaa11.mujtabaa11)
+</div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujtabaa11&theme=github)
 
