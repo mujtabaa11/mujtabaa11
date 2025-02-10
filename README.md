@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mujtabaa11.mujtabaa11" alt="visitors" style="width: 200px; height: auto;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mujtabaa11.mujtabaa11" alt="visitors" style="width: 150px; height: auto;">
 </p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mujtabaa11&theme=github)
